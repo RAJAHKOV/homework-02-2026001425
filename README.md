@@ -88,3 +88,6 @@ coefficient_error      fitted_error consistency_error
 ridge_max_absolute_error 
             4.440892e-15
 ```
+
+5.AI使用情况
+在四道题中均有使用ChatGPT-6，主要用于改正自己写的代码的错误，以及文件管理错误。通过比较运行结果的差异和无Warning提醒，我验证结果是正确的。
