@@ -1,6 +1,6 @@
 # homework-02-2026001425
 
-https://github.com/RAJAHKOV/homework-02-2026001425/tree/main
+https://github.com/RAJAHKOV/homework-02-2026001425
 ## 1.image-convolution
 ```bash
 source("~/homework2/convolution/image-convolution.R")
